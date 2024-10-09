@@ -7,7 +7,6 @@ author = "Nathan Fourny"
 # Params supplémentaires pour personnaliser
 [pagination]
   pagerSize = 5
-disqusShortname = "votre-disqus-shortname"  # Si vous utilisez Disqus pour les commentaires
 
 [params]
   description = "Ceci est mon site personnel."
