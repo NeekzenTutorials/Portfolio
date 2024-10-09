@@ -1,4 +1,4 @@
-baseURL = "https://NeekzenTutorials.github.io/Portfolio/"
+baseURL = "https://NeekzenTutorials.github.io/Portfolio.git"
 title = "Mon Blog"
 languageCode = "fr-fr"
 theme = "hugo-coder"
