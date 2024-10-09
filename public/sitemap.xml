@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Portfolio/</loc>
+    <loc>https://NeekzenTutorials.github.io/Portfolio/</loc>
     <lastmod>2024-10-09T11:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/posts/</loc>
+    <loc>https://NeekzenTutorials.github.io/Portfolio/posts/mon-premier-article/</loc>
     <lastmod>2024-10-09T11:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/categories/</loc>
+    <loc>https://NeekzenTutorials.github.io/Portfolio/posts/</loc>
+    <lastmod>2024-10-09T11:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/</loc>
+    <loc>https://NeekzenTutorials.github.io/Portfolio/categories/</loc>
+  </url><url>
+    <loc>https://NeekzenTutorials.github.io/Portfolio/tags/</loc>
   </url>
 </urlset>
