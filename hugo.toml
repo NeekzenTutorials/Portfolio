@@ -1,11 +1,12 @@
-baseURL = "https://NeekzenTutorials.github.io/Portfolio.git"
+baseURL = "https://NeekzenTutorials.github.io/Portfolio/"
 title = "Mon Blog"
 languageCode = "fr-fr"
 theme = "hugo-coder"
 author = "Nathan Fourny"
 
 # Params supplémentaires pour personnaliser
-paginate = 5
+[pagination]
+  pagerSize = 5
 disqusShortname = "votre-disqus-shortname"  # Si vous utilisez Disqus pour les commentaires
 
 [params]
