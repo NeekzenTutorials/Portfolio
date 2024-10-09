@@ -1,13 +1,29 @@
 baseURL = "https://NeekzenTutorials.github.io/Portfolio/"
-title = "Mon Blog"
+title = "Portfolio"
 languageCode = "fr-fr"
 theme = "hugo-coder"
 author = "Nathan Fourny"
 
-# Params supplémentaires pour personnaliser
 [pagination]
   pagerSize = 5
 
 [params]
   description = "Ceci est mon site personnel."
-  # D'autres configurations spécifiques au thème
+
+[menu]
+
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mon Blog</title>
+    <title>Bienvenue sur mon site on Portfolio</title>
     <link>https://NeekzenTutorials.github.io/Portfolio/</link>
-    <description>Recent content on Mon Blog</description>
+    <description>Recent content in Bienvenue sur mon site on Portfolio</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 09 Oct 2024 11:22:17 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:30:00 +0000</lastBuildDate>
     <atom:link href="https://NeekzenTutorials.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://NeekzenTutorials.github.io/Portfolio/about/</link>
+      <pubDate>Wed, 09 Oct 2024 12:30:00 +0000</pubDate>
+      <guid>https://NeekzenTutorials.github.io/Portfolio/about/</guid>
+      <description>&lt;h1 id=&#34;à-propos&#34;&gt;&#xD;&#xA;  À Propos&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%c3%a0-propos&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bienvenue sur la page À Propos. Ici, vous pouvez ajouter des informations sur vous ou sur votre site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://NeekzenTutorials.github.io/Portfolio/projects/</link>
+      <pubDate>Wed, 09 Oct 2024 12:30:00 +0000</pubDate>
+      <guid>https://NeekzenTutorials.github.io/Portfolio/projects/</guid>
+      <description>&lt;h1 id=&#34;mon-projet&#34;&gt;&#xD;&#xA;  Mon Projet&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mon-projet&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Voici une description de mon projet principal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mon Premier Article</title>
       <link>https://NeekzenTutorials.github.io/Portfolio/posts/mon-premier-article/</link>
